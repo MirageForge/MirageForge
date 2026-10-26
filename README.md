@@ -19,7 +19,6 @@
 ### 🚀 Sobre mí
 - 📍 **Ubicación:** México
 - 💼 **Enfoque:** Desarrollo de aplicaciones web, flujos de trabajo inteligentes, integración de APIs REST y automatización con IA.
-- 🎓 **Formación:** Estudiando la Licenciatura en Diseño de Software y Redes (UVM).
 - 🛠️ **Experiencia previa:** Desarrollo de sistemas empresariales (ATS), soporte enterprise y automatización de procesos legales con LLMs.
 
 ---
